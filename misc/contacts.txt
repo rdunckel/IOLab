@@ -1,0 +1,3 @@
+first name, last name, street address, city, state, zip, email, phone
+John,Smith,123 Main Street,Chicago,IL,54556,john.smith@test.com,111-555-1234
+Julie,Clark,234 Corner Street,Denver,CO,85554,julie.clark@test.com,222-555-4321
